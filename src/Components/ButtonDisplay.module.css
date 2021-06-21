@@ -22,7 +22,7 @@
  .table button:active{
     outline: none;
      border: 0;
-     color: green;
+     
      box-shadow: none;
  }
 
