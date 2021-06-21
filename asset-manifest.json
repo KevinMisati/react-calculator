@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KevinMisati/react-calculator/static/css/main.0e6ebccc.chunk.css",
+    "main.js": "/KevinMisati/react-calculator/static/js/main.2da00ba2.chunk.js",
+    "main.js.map": "/KevinMisati/react-calculator/static/js/main.2da00ba2.chunk.js.map",
+    "runtime-main.js": "/KevinMisati/react-calculator/static/js/runtime-main.b2702a2d.js",
+    "runtime-main.js.map": "/KevinMisati/react-calculator/static/js/runtime-main.b2702a2d.js.map",
+    "static/js/2.eeac2c70.chunk.js": "/KevinMisati/react-calculator/static/js/2.eeac2c70.chunk.js",
+    "static/js/2.eeac2c70.chunk.js.map": "/KevinMisati/react-calculator/static/js/2.eeac2c70.chunk.js.map",
+    "static/js/3.12ff5a0a.chunk.js": "/KevinMisati/react-calculator/static/js/3.12ff5a0a.chunk.js",
+    "static/js/3.12ff5a0a.chunk.js.map": "/KevinMisati/react-calculator/static/js/3.12ff5a0a.chunk.js.map",
+    "index.html": "/KevinMisati/react-calculator/index.html",
+    "static/css/main.0e6ebccc.chunk.css.map": "/KevinMisati/react-calculator/static/css/main.0e6ebccc.chunk.css.map",
+    "static/js/2.eeac2c70.chunk.js.LICENSE.txt": "/KevinMisati/react-calculator/static/js/2.eeac2c70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2702a2d.js",
+    "static/js/2.eeac2c70.chunk.js",
+    "static/css/main.0e6ebccc.chunk.css",
+    "static/js/main.2da00ba2.chunk.js"
+  ]
+}
